@@ -2,6 +2,10 @@ Qwen
 千问
 阿里
 
+kimi
+moonshot
+月之暗面
+
 DeepSeek
 
 华为
